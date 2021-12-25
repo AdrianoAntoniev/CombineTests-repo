@@ -1,0 +1,23 @@
+{
+    "bands": [
+        {
+            "name": "Beatles",
+            "hit": "Yesterday"
+        },
+        {
+            "name": "Radiohead",
+            "hit": "No Surprises"
+        },
+        {
+            "name": "Temple of the Dog",
+            "hit": "Hunger Strike"
+        },
+        {
+            "name": "Stone Temple Pilots",
+            "hit": "Plush"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
