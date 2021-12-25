@@ -15,6 +15,26 @@
         {
             "id": "Stone Temple Pilots",
             "hit": "Plush"
+        },
+        {
+            "id": "Eagles",
+            "hit": "Hotel California"
+        },
+        {
+            "id": "Pixies",
+            "hit": "Here comes your man"
+        },
+        {
+            "id": "System of a down",
+            "hit": "Toxicity"
+        },
+        {
+            "id": "Deftones",
+            "hit": "Be quiet and drive"
+        },
+        {
+            "id": "Foo Fighters",
+            "hit": "Everlong"
         }
     ],
     "profile": {
